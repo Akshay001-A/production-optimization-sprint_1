@@ -9,4 +9,4 @@ Implemented:
 4. Segment Tree (Range Max Query)
 5. Bitmask DP Assignment
 
-Author: Akshay
+Author: Akshay R
